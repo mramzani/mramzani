@@ -2,8 +2,18 @@
 ## About me : 
 Mohammad is an experienced backend web developer with 2 years of experience in PHP and laravel. Mohammad strives to write clean, modern, reliable code. Always honing his craft, Mohammad keeps abreast with the rapidly changing industry.
 
-####  Skills: PHP, Laravel,Livewire, Git, Rest API , SOLD , Design Pattern, mySQL
-#### Languages: English , Persian (Native)
+####  Skills: 
+- PHP , Laravel , Livewire , Git , Rest API , SOLD , Design Pattern , mySQL
+#### Education History: 
+- Tabari University ,  Bachelor's degree , 2014 - 2018
+- Khatam-Al-Anbiya Highschool,  Mathematical physics , Diploma
+#### Job Experience:
+
+#### Top Projects:
+
+#### Languages: 
+- English , Persian (Native)
+
 
 <!-- <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mramzani&layout=compact&hide_border=true&langs_count=10&hide=html,css,scss,less,shell,xslt,hack" alt='Mohamad ramzani contribute language' style="max-width: 50%;">
