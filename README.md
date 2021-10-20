@@ -8,7 +8,8 @@ Mohammad is an experienced backend web developer with 2 years of experience in P
 - Tabari University ,  Bachelor's degree , 2014 - 2018
 - Khatam-Al-Anbiya Highschool,  Mathematical physics , Diploma
 #### Job Experience:
-
+- Web Developer (full-time) - HKA - Nov 2019 - Aug 2021
+- PHP Developer (full-time) - Yes Group - Jul 2019 - Nov 2019
 #### Top Projects:
 
 #### Languages: 
