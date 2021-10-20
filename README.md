@@ -2,12 +2,12 @@
 ## About me : 
 Mohammad is an experienced backend web developer with 2 years of experience in PHP and laravel. Mohammad strives to write clean, modern, reliable code. Always honing his craft, Mohammad keeps abreast with the rapidly changing industry.
 
-####  Skills: PHP, Laravel,Livewire, Git, Rest API , SOLD , Design Pattern, MVC
+####  Skills: PHP, Laravel,Livewire, Git, Rest API , SOLD , Design Pattern, mySQL
 #### Languages: English , Persian (Native)
 
-<p align="center">
+<!-- <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mramzani&layout=compact&hide_border=true&langs_count=10&hide=html,css,scss,less,shell,xslt,hack" alt='Mohamad ramzani contribute language' style="max-width: 50%;">
-</p>
+</p> -->
 
 <!--
 **mramzani/mramzani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
