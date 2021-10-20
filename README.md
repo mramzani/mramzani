@@ -1,8 +1,8 @@
 ### Hi there, I'm Mohammad Ramzani 👋 👋
 
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=mramzani&show_icons=true&count_private=true&hide_border=true&locale=en&include_all_commits=true" alt='amirshnll contribute status'>
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mramzani&layout=compact&hide_border=true&langs_count=10&hide=html,css,scss,less,shell,xslt,hack" alt='amirshnll contribute language'>
+  <img src ="https://github-readme-stats.vercel.app/api?username=mramzani&show_icons=true&count_private=true&hide_border=true&locale=en&include_all_commits=true" alt='mohamad ramzani contribute status' style="max-width: 50%;">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mramzani&layout=compact&hide_border=true&langs_count=10&hide=html,css,scss,less,shell,xslt,hack" alt='Mohamad ramzani contribute language' style="max-width: 50%;">
 </p>
 
 <!--
