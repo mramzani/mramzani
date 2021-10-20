@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Mohammad Ramzani 👋 👋
+
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=mramzani&show_icons=true&count_private=true&hide_border=true&locale=en&include_all_commits=true" alt='amirshnll contribute status'>
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mramzani&layout=compact&hide_border=true&langs_count=10&hide=html,css,scss,less,shell,xslt,hack" alt='amirshnll contribute language'>
+</p>
 
 <!--
 **mramzani/mramzani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
