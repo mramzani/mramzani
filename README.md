@@ -1,6 +1,6 @@
 ### Hi there, I'm Mohammad Ramzani 👋 👋
 ## About me : 
-Mohammad is an experienced backend web developer with 2 years of experience in PHP and laravel. Mohammad strives to write clean, modern, reliable code. Always honing his craft, Mohammad keeps abreast with the rapidly changing industry.
+Mohammad is an experienced backend web developer with 3 years of experience in PHP and laravel. Mohammad strives to write clean, modern, reliable code. Always honing his craft, Mohammad keeps abreast with the rapidly changing industry.
 
 ####  Skills: 
 - PHP , Laravel , Livewire , Git , Rest API , SOLD , Design Pattern , mySQL
@@ -8,12 +8,12 @@ Mohammad is an experienced backend web developer with 2 years of experience in P
 - Tabari University ,  Bachelor's degree , 2014 - 2018
 - Khatam-Al-Anbiya Highschool,  Mathematical physics , Diploma
 #### Job Experience:
-- Web Developer (full-time) - HKA - Nov 2019 - Aug 2021
+- PHP Developer - (Laravel) (full-time) - HKA - Nov 2019 - Aug 2021
 - PHP Developer (full-time) - Yes Group - Jul 2019 - Nov 2019
 #### Top Projects:
 
 #### Languages: 
-- English , Persian (Native)
+- English (2.5/5),Deutsch (2.5/5) , Persian (Native)
 
 
 <!-- <p align="center">
