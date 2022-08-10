@@ -3,7 +3,7 @@
 Mohammad is an experienced backend web developer with 3 years of experience in PHP and laravel. Mohammad strives to write clean, modern, reliable code. Always honing his craft, Mohammad keeps abreast with the rapidly changing industry.
 
 ####  Skills: 
-- PHP , Laravel , Livewire , Git , Rest API , SOLD , Design Pattern , mySQL
+- PHP , Laravel , Livewire , Git , Rest API , SOLID , Design Pattern , mySQL
 #### Education History: 
 - Tabari University ,  Bachelor's degree , 2014 - 2018
 - Khatam-Al-Anbiya Highschool,  Mathematical physics , Diploma
